@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+  <link rel="icon" type="image/png" href="https://i.ibb.co/LYw5kRy/imageedit-2-7237205006-2.png" />
+  <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>Machine Learning | AI</title>
+  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/9897D90D-5ED6-0548-9C7B-9A766367236A/main.js" charset="UTF-8"></script>
+</head>
+
+<body>
+  <nav>
+    <div class="logo">
+      <h4>Artificial Intelligence</h4>
+    </div>
+    <ul class="nav-links">
+      <li>
+        <a href="index.html">Home</a>
+      </li>
+      <li>
+        <a href="machinelearning.html">Machine learning</a>
+      </li>
+      <li>
+        <a href="humanvsai.html">Human VS AI</a>
+      </li>
+      <li>
+        <a href="about.html">About & Contact</a>
+      </li>
+    </ul>
+    <div class="burger">
+      <div class="line1"></div>
+      <div class="line2"></div>
+      <div class="line3"></div>
+    </div>
+  </nav>
+
+  <section>
+    <div class="ml-container">
+      <div class="box">
+        <div class="film" align="center">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ukzFI9rgwfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <br>
+        <div class="ml-tekst">
+          <h1><span class="titel1">Machine Learning</span></h1>
+          <p>Normaal gesproken schrijf je een programma om input om te vormen naar een bepaalde output. Bij machine learning gaat dit anders. De computer krijgt verschillende input en output en komt zelf tot een programma. Daarvoor gebruikt de computer algoritmes.
+            De fase waarin de computer zo’n programma leert, heet de trainingsfase. Na de trainingsfase kan de computer - door middel van het aangeleerde programma - nieuwe en onbekende input tot een goede output te laten komen. </p>
+          <p><span class="semititel2">Zo verloopt het proces van machine learning</span>
+            <br>
+            <img class="plaatje3" src="static/images/ml.png" alt="Machine Learning Proces">
+            <br>
+            <h1><span class="titel1">AI is overal: je kunt er niet meer omheen</span></h1>
+            <p>AI wordt al vaak gebruikt. Misschien zelfs zonder dat je het in de gaten hebt, gebruik je nu al vaak AI. Ook in je computer en mobiele telefoon bijvoorbeeld, zit AI. Sociale media, zoals Facebook, gebruikt het voor je gepersonaliseerde timeline.
+              En Google gebruikt het ook: voor het automatisch indexeren van alle webpagina’s. Maar ook het navigatiesysteem in je auto of je navigatie app is één en al AI. Het neemt alle real time informatie mee in de berekening van de meest optimale
+              route. AI is dus overal. En toepassingen zullen verder toenemen in ons dagelijks leven.</p>
+            <h1><span class="titel1">AI biedt vooral veel kansen</span></h1>
+            <p>AI wordt ook al steeds vaker ingezet bij spraakherkenning voor voice oplossingen en woordherkenning voor zelflerende chatbots. En eigenlijk iedere partij die meer wil halen uit Big Data, doet dat met behulp van AI. Daarbij wordt vooral machine
+              learning ingezet. Een sector waar ontzettend veel kansen liggen is de gezondheidszorg. AI wordt daar AI gezet. Maar artsen kunnen nog veel meer geholopen worden door slimme systemen die op basis van ontvangen input en beeldherkenning kunnen
+              helpen bij het stellen van diagnoses.</p>
+            <p><span class="semititel2">Heb jij al ideeën voor jouw organisatie? Wij denken graag met je mee!</span>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="ml-footer">
+      <div class="contain">
+        <div class="social">
+          <h1 id="titel">Social</h1>
+          <div class="icons">
+            <a href="https://www.youtube.com/user/Woesben" target="_blank">
+                <img class="youtube" src="static/images/youtubeicon.svg">
+            </a>
+            <a href="https://twitter.com/hugokipje" target="_blank">
+                <img class="twitter" src="static/images/twittericon.svg">
+            </a>
+            <a href="https://www.instagram.com/hugoboy2003/?hl=nl" target="_blank">
+                <img class="instagram" src="static/images/instaicon.svg">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="static/javascript/app.js"></script>
+</body>
+
+</html>
